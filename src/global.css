@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,500;0,600;0,700;0,800;1,300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oregano:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-oregano: Oregano;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-smi: 13px;
+  --font-size-mini: 15px;
+  --font-size-xl: 20px;
+  --font-size-3xs: 10px;
+  --font-size-xs: 12px;
+  --font-size-5xl: 24px;
+  --font-size-13xl: 32px;
+  --font-size-4xl: 23px;
+  --font-size-16xl: 35px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-goldenrod: #ffc239;
+  --color-gray-100: #292a2e;
+  --color-gray-200: rgba(0, 0, 0, 0.37);
+  --color-crimson: #ea394a;
+  --color-black: #000;
+  --color-mediumseagreen: #0cbc8b;
+  --color-royalblue-100: #367cff;
+  --color-aliceblue: #edf2fa;
+  --color-gainsboro-100: #d9d9d9;
+  --color-gainsboro-200: rgba(217, 217, 217, 0.4);
+  --color-gainsboro-300: rgba(217, 217, 217, 0);
+  --color-dimgray: #737373;
+
+  /* Gaps */
+  --gap-lg: 18px;
+  --gap-sm: 14px;
+  --gap-lgi: 19px;
+
+  /* border radiuses */
+  --br-11xl: 30px;
+  --br-8xs: 5px;
+  --br-xl: 20px;
+  --br-6xl: 25px;
+  --br-31xl: 50px;
+}
